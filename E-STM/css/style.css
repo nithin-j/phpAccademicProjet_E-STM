@@ -1,0 +1,191 @@
+header
+{
+	
+	background-color:#5ca0d1;
+		height:100px;
+}
+
+header h2
+{
+color:white;
+font-family:verdana;
+margin-left:9%;
+padding-top:40px;
+margin-top:0px;
+}
+nav
+{
+	background-color:#58504C;
+	height:50px;
+	
+}
+ul {
+  list-style-type: none;
+  float:left;
+  margin-left:5%;
+
+}
+ul li{
+	float:left;
+	
+}
+
+ul li a {
+   
+  color: white; 
+  text-align: center;
+   text-decoration: none;
+   font-size:16px;
+    padding:8px;
+ 
+}
+ li a:hover{	
+  background-color: #5ca0d1;
+  color: white; 
+}
+
+
+
+.div1
+{
+	background-image:url('../images/metro.jpg');
+	height:300px;
+	background-repeat:no-repeat;
+	background-size: 100% 100%;
+	  
+	
+
+}
+.div1 h1
+{
+	font-family:verdana;
+color:#fff;	
+margin-top:0px;
+text-align:center;
+padding-top:7%;
+margin-left:7.2%;
+margin-right:9%;
+text-decoration: none;
+
+}
+.div2_left
+{
+	background-color:#E2DEDB;
+	height:300px;
+	width:70%;
+	float:left;
+	
+	font-family:verdana;
+	color:#7D7672;
+	padding-bottom:10px;
+	
+}
+.div2_left h3
+{
+	margin-left:11%;
+	padding-top:25px;
+
+	
+	
+	
+}
+.div2_left p
+{
+	margin-left:11%;
+	LINE-HEIGHT:27px;
+}
+.div2_right
+{
+	float:right;
+	width:30%;
+	background-color:#E2DEDB;
+	height:300px;
+	font-family:verdana;
+	color:#7D7672;
+		padding-bottom:10px;
+}
+.divuser
+{
+
+	background-color:#E2DEDB;
+	height:500px;
+	font-family:verdana;
+	color:#7D7672;
+
+		
+}
+.div2_right form
+{
+	margin-left:5%;
+	margin-right:30%;
+	text-align:center;
+
+	padding-left:5px;
+
+
+
+	background-color:#4F4945;
+	color:#fff;
+
+}
+
+.div2_left form
+{
+	margin-top:6%;
+		margin-left:5%;
+	margin-right:30%;
+	text-align:center;
+
+	padding-left:5px;
+
+   float:right;
+   margin-left:100px;
+
+	background-color:#4F4945;
+	color:#fff;
+}
+
+.div2_left form button {
+  background-color: #5ca0d1; 
+  border: none;
+  color: white;
+  padding: 5px 12px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+.div2_right form button {
+  background-color: #5ca0d1; 
+  border: none;
+  color: white;
+  padding: 5px 12px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+.div2_right form input[type=text]:focus {
+  background-color: lightblue;
+}
+
+footer
+{
+	background-color:#58504C;
+	
+}
+footer p
+{
+	color:#fff;
+	text-align:center;
+	padding-bottom:50px;
+	padding-top:19%;
+		font-family:verdana;
+		
+}
+
+  
